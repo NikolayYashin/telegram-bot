@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('2060953992:AAEPGPw26rFcC7bASEuW2s2WX_Ku5dPQ6gg')
+
 
 chatID = -1001420169796
 
